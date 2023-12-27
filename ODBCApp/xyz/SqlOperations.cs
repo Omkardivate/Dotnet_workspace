@@ -66,6 +66,31 @@ class SQL
         }
     }
 
+    public void DeleteProductById()
+    {
+        string query = "delete from productdemo where pid=@pid";
+        Console.WriteLine("Enter id:");
+        int pid = int.Parse(Console.ReadLine());
+
+        command = new MySqlCommand(query, conn);
+        command.Parameters.AddWithValue("@pid", pid);
+
+        try
+        {
+            int status = command.ExecuteNonQuery();
+            if (status != 0)
+            {
+                Console.WriteLine(pid + " id deleted successfully...");
+            }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+    }
+
+    //UpdateProductById() 
+
     public void Closed()
     {
         conn.Close();
