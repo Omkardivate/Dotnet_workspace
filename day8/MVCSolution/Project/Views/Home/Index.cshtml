@@ -1,0 +1,21 @@
+﻿@using BOL ;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+     <h3> Welcome to classroom </h3>
+     <hr>
+    @{
+        List<Person> plist = ViewData["students"] as List<Person>;
+
+        foreach (Person p in plist)
+        {
+            <h3> @p </h3> <hr>
+        }
+    }
+    
+
+</div>

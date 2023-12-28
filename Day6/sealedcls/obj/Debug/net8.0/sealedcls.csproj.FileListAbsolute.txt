@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\bin\Debug\net8.0\sealedcls.exe
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\bin\Debug\net8.0\sealedcls.deps.json
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\bin\Debug\net8.0\sealedcls.runtimeconfig.json
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\bin\Debug\net8.0\sealedcls.dll
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\bin\Debug\net8.0\sealedcls.pdb
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\sealedcls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\sealedcls.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\sealedcls.AssemblyInfo.cs
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\sealedcls.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\sealedcls.dll
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\refint\sealedcls.dll
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\sealedcls.pdb
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\sealedcls.genruntimeconfig.cache
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\sealedcls\obj\Debug\net8.0\ref\sealedcls.dll
