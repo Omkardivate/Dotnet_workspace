@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\bin\Debug\net8.0\partialpratice.exe
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\bin\Debug\net8.0\partialpratice.deps.json
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\bin\Debug\net8.0\partialpratice.runtimeconfig.json
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\bin\Debug\net8.0\partialpratice.dll
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\bin\Debug\net8.0\partialpratice.pdb
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\partialpratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\partialpratice.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\partialpratice.AssemblyInfo.cs
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\partialpratice.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\partialpratice.dll
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\refint\partialpratice.dll
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\partialpratice.pdb
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\partialpratice.genruntimeconfig.cache
+C:\Users\IET\Desktop\OMI-ADIDAY6\Day6\partialpratice\obj\Debug\net8.0\ref\partialpratice.dll
