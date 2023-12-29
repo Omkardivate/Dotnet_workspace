@@ -1,0 +1,18 @@
+created first  
+--- dotnew new web -o WebApp ---
+project name: SimpleMicroserviceApp in sir repo.
+
+1.created BOL
+2.created DAL
+3.created BLL
+
+4.Make Rest API's in program.cs
+  app.MapGet("/",()=>)
+
+
+what is 'web' ?
+=>   This creates a web application using the ASP.NET Core MVC (Model-View-Controller) framework. 
+
+It is suitable for building dynamic web applications that follow the MVC pattern. This includes applications with interactive user interfaces, complex data manipulations, and views that are rendered on the server side.
+
+Here we dont get middleware.

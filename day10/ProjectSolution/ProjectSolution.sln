@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{F98A8C98-4633-48AF-B804-B62792C7CB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWebAPIApp", "MVCWebAPIApp\MVCWebAPIApp.csproj", "{F3F13EA5-CA11-4137-A27E-4B5FAC814CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98A8C98-4633-48AF-B804-B62792C7CB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98A8C98-4633-48AF-B804-B62792C7CB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98A8C98-4633-48AF-B804-B62792C7CB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98A8C98-4633-48AF-B804-B62792C7CB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F13EA5-CA11-4137-A27E-4B5FAC814CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F13EA5-CA11-4137-A27E-4B5FAC814CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F13EA5-CA11-4137-A27E-4B5FAC814CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F13EA5-CA11-4137-A27E-4B5FAC814CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

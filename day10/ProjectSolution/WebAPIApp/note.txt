@@ -1,0 +1,6 @@
+what is webapi ?
+=> The webapi template is for creating ASP.NET Core Web API applications. Web APIs are designed to expose endpoints over HTTP to provide data and services to other applications. Web APIs follow a more lightweight architecture, often returning data in formats like JSON or XML.
+
+It is suitable for building backend services that can be consumed by various clients, such as web applications, mobile apps, and other services. Web APIs are commonly used for scenarios where data needs to be exchanged between different systems.
+
+Here we get numbers of middleware automatically at start.
