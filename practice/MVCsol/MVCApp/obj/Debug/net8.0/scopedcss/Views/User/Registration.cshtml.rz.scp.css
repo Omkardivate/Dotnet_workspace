@@ -1,0 +1,39 @@
+body[b-ehlkwgwas5] {   
+    height: 100%;   
+}  
+.global-container[b-ehlkwgwas5] {  
+     
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+     
+}  
+.titleh3[b-ehlkwgwas5]{
+    font-weight: bold;
+}
+form[b-ehlkwgwas5] {  
+    padding-top: 10px;  
+    font-size: 14px;  
+    margin-top: 30px;  
+}  
+.card-title[b-ehlkwgwas5] {   
+font-weight: 300;  
+ }  
+.btn[b-ehlkwgwas5] {  
+    font-size: 14px;  
+    margin-top: 20px;  
+}  
+.login-form[b-ehlkwgwas5] {   
+    width: 330px;  
+    margin: 20px;  
+    background-color: rgb(189, 209, 226);
+}  
+.sign-up[b-ehlkwgwas5] {  
+    text-align: center;  
+    padding: 20px 0 0;  
+}  
+.alert[b-ehlkwgwas5] {  
+    margin-bottom: -30px;  
+    font-size: 13px;  
+    margin-top: 20px;  
+}  

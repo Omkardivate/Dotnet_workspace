@@ -1,0 +1,150 @@
+/* _content/MVCApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-m9pgagwe8q] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-m9pgagwe8q] {
+  color: #0077cc;
+}
+
+.btn-primary[b-m9pgagwe8q] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-m9pgagwe8q], .nav-pills .show > .nav-link[b-m9pgagwe8q] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-m9pgagwe8q] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-m9pgagwe8q] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-m9pgagwe8q] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-m9pgagwe8q] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-m9pgagwe8q] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+.right[b-m9pgagwe8q]{
+  float: right;
+}
+/* _content/MVCApp/Views/User/Index.cshtml.rz.scp.css */
+table[b-21fpw2d2qw], th[b-21fpw2d2qw], td[b-21fpw2d2qw] {
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-size: 20px;
+  }
+  th[b-21fpw2d2qw], td[b-21fpw2d2qw] {
+    background-color: #96D4D4;
+    padding: 20px;
+  }
+
+  .center[b-21fpw2d2qw] {
+    margin-top: 12%;
+    margin-left: 36%;
+   
+  }
+  
+/* _content/MVCApp/Views/User/Login.cshtml.rz.scp.css */
+body[b-wz0129ysiy] {   
+    height: 100%;   
+}  
+.global-container[b-wz0129ysiy] {  
+     
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+     
+}  
+.titleh3[b-wz0129ysiy]{
+    font-weight: bold;
+}
+form[b-wz0129ysiy] {  
+    padding-top: 10px;  
+    font-size: 14px;  
+    margin-top: 30px;  
+}  
+.card-title[b-wz0129ysiy] {   
+font-weight: 300;  
+ }  
+.btn[b-wz0129ysiy] {  
+    font-size: 14px;  
+    margin-top: 20px;  
+}  
+.login-form[b-wz0129ysiy] {   
+    width: 330px;  
+    margin: 20px;  
+    background-color: rgb(189, 209, 226);
+}  
+.sign-up[b-wz0129ysiy] {  
+    text-align: center;  
+    padding: 20px 0 0;  
+}  
+.alert[b-wz0129ysiy] {  
+    margin-bottom: -30px;  
+    font-size: 13px;  
+    margin-top: 20px;  
+}  
+/* _content/MVCApp/Views/User/Registration.cshtml.rz.scp.css */
+body[b-ehlkwgwas5] {   
+    height: 100%;   
+}  
+.global-container[b-ehlkwgwas5] {  
+     
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+     
+}  
+.titleh3[b-ehlkwgwas5]{
+    font-weight: bold;
+}
+form[b-ehlkwgwas5] {  
+    padding-top: 10px;  
+    font-size: 14px;  
+    margin-top: 30px;  
+}  
+.card-title[b-ehlkwgwas5] {   
+font-weight: 300;  
+ }  
+.btn[b-ehlkwgwas5] {  
+    font-size: 14px;  
+    margin-top: 20px;  
+}  
+.login-form[b-ehlkwgwas5] {   
+    width: 330px;  
+    margin: 20px;  
+    background-color: rgb(189, 209, 226);
+}  
+.sign-up[b-ehlkwgwas5] {  
+    text-align: center;  
+    padding: 20px 0 0;  
+}  
+.alert[b-ehlkwgwas5] {  
+    margin-bottom: -30px;  
+    font-size: 13px;  
+    margin-top: 20px;  
+}  

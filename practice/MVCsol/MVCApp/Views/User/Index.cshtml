@@ -1,0 +1,35 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "User Data Page";
+}
+<body >
+    <div class="center">
+        <div >
+            <table >
+            <thead>
+                <tr>
+                    <th> ID </th>
+                    <th> Username</th>
+                    <th> Password</th>
+                </tr>
+            </thead>
+            <tbody>
+            
+            @{
+            
+                List<User> ulist=ViewData["users"] as List<User>;
+
+            @foreach(User u in ulist){
+                <tr>
+                    <td> @u.Id </td>
+                    <td> @u.Name </td>
+                    <td> @u.Pwd </td>
+                </tr>
+            }
+        }
+            </tbody>
+        </table>
+        </div>
+    </div>
+</body>
