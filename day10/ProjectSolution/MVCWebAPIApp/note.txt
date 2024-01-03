@@ -1,9 +1,0 @@
-created second
---- dotnew new webapi -o MVCWebAPIApp ---
-project name: MVCWebAPIApp in sir repo.
-
-1.created 
-2.created 
-3.created 
-
-4.

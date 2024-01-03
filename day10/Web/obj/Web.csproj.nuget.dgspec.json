@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\Web\\Web.csproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\Web\\Web.csproj": {
+    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\web\\Web.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\Web\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

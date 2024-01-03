@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\ProjectSolution\\WebAPIApp\\WebAPIApp.csproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\projectsolution\\webapiapp\\WebAPIApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\ProjectSolution\\WebAPIApp\\WebAPIApp.csproj": {
+    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\projectsolution\\webapiapp\\WebAPIApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\ProjectSolution\\WebAPIApp\\WebAPIApp.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\projectsolution\\webapiapp\\WebAPIApp.csproj",
         "projectName": "WebAPIApp",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\ProjectSolution\\WebAPIApp\\WebAPIApp.csproj",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\projectsolution\\webapiapp\\WebAPIApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\ProjectSolution\\WebAPIApp\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\day10\\projectsolution\\webapiapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

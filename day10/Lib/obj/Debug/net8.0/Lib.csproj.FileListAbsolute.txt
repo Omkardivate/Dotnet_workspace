@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\bin\Debug\net8.0\Lib.deps.json
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\bin\Debug\net8.0\Lib.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\bin\Debug\net8.0\Lib.pdb
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\Lib.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\Lib.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\Lib.sourcelink.json
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\Lib.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\refint\Lib.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\Lib.pdb
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\day10\Lib\obj\Debug\net8.0\ref\Lib.dll

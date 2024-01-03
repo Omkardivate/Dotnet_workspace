@@ -1,5 +1,10 @@
 namespace DAL;
 
+using System;
+using System.Collections.Generic;
+using System.Net.Http;
+using MySql.Data.MySqlClient;
+
 using BOL;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -36,9 +41,10 @@ public class DBManager
                 return GetAllProducts();
             }  
     }
+    
     /*
     public static List<Product> GetAllProductsFromDatabase()
-        {
+    {
             List<Product> allProducts = new List<Product>();
             
             //Using MYSQL 
@@ -47,16 +53,74 @@ public class DBManager
 
             //database connectivity using MONGO db
             return allProducts;
-        }
+    }
+
     public static List<Product> GetAllProductsFromExternalServices()
-        {
-            List<Product> allProducts = new List<Product>();
+    {
+        List<Product> allProducts = new List<Product>();
             
-            // get all JSON data from REST API
-             
-            //database connectivity using MONGO db
-            return allProducts;
+        // get all JSON data from REST API
+         --------------------copied-------------------------
+
+        try
+        {
+            // Example REST API endpoint URL
+            string apiUrl = "https://api.example.com/products";
+
+            using (HttpClient client = new HttpClient())
+            {
+                // Send a GET request to the API
+                HttpResponseMessage response = await client.GetAsync(apiUrl);
+
+                // Check if the request was successful (status code 200)
+                if (response.IsSuccessStatusCode)
+                {
+                    // Read and parse the JSON data
+                    string jsonResult = await response.Content.ReadAsStringAsync();
+
+                    // Deserialize JSON into a list of Product objects
+                    // Example: Use Newtonsoft.Json.JsonConvert for deserialization
+                    allProducts = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Product>>(jsonResult);
+                }
+                else
+                {
+                    Console.WriteLine($"Error: {response.StatusCode} - {response.ReasonPhrase}");
+                    // Handle the error appropriately
+                }
+            }
+
+            // Connect to MySQL database and perform database operations
+            string connectionString = "Server=your_server;Database=your_database;User=your_user;Password=your_password;";
+            using (MySqlConnection connection = new MySqlConnection(connectionString))
+            {
+                await connection.OpenAsync();
+
+                // Example: Insert all products into MySQL
+                foreach (Product product in allProducts)
+                {
+                    string insertQuery = $"INSERT INTO your_table (column1, column2, ...) VALUES (@value1, @value2, ...)";
+                    MySqlCommand insertCommand = new MySqlCommand(insertQuery, connection);
+
+                    // Example: Assuming your Product class has properties like Name, Price, etc.
+                    insertCommand.Parameters.AddWithValue("@value1", product.Name);
+                    insertCommand.Parameters.AddWithValue("@value2", product.Price);
+                    // Add parameters for other columns accordingly
+
+                    await insertCommand.ExecuteNonQueryAsync();
+                }
+            }
         }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+            // Handle the exception appropriately
+        }
+
+
+        ------------------end here-----------------------
+        //database connectivity using MONGO db
+        return allProducts;
+    }
 
     public    static Product GetProductById(int id){
         List<Product> products = GetAllProducts();

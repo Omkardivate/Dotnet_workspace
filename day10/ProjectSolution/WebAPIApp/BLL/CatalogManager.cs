@@ -15,12 +15,14 @@ public class CatalogManager
     /*
      public Product GetProduct(int  id){
       List<Product> allProducts=GetAllProducts();
-      //LINQ Query
+
+      //LINQ Query  //way 1
       //var product=from  p in allProducts
                 //    where p.ProductId ==id
                 //     select p  ;     
     
-      Product product=allProducts.Find((product)=>product.Id ==id);
+      Product product=allProducts.Find((product)=>product.Id ==id);  //way 2
+      
       return product ;
      }
      */
