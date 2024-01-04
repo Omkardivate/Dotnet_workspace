@@ -1,0 +1,33 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Student Page";
+}
+
+<html>
+    <head>
+        <link rel="stylesheet" href="Index.cshtml.css">
+    </head>
+    <body>
+        <div class="text-center">
+            <h1 class="display-4">Students Data</h1>
+            <table border="2px solid black">
+                <thead >
+                    <tr>
+                        <th> Id </th> <th> Firstname </th> <th> Lastname </th> <th> Date </th> <th> Email </th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                
+                @{
+                    foreach(Student s in Model){
+                    <tr>
+                        <td> @s.Id </td> <td> @s.FName </td> <td> @s.LName </td> <td> @s.Date </td> <td> @s.Email  </td>
+                    </tr>
+                    }
+                }
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
