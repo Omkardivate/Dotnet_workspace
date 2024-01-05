@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\MVCApp.csproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\mvcapp\\MVCApp.csproj": {}
   },
   "projects": {
     "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BLL\\BLL.csproj": {
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\MVCApp.csproj": {
+    "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\mvcapp\\MVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\MVCApp.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\mvcapp\\MVCApp.csproj",
         "projectName": "MVCApp",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\MVCApp.csproj",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\mvcapp\\MVCApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\mvcapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

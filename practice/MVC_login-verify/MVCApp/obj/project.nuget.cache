@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Hhqui4pW+zhv/0WtHG6TNJWZE/H3PcvvAJsTFVXPR9XAdY16whcYbbAtTXNyDba/MyzxZskyc03jQDeR9bBjA==",
+  "dgSpecHash": "ts5XVPB/URotOX/nGj9Nh8O87WEX6ouLJKrD9t0zLDcOBKXTP0fvQx9LKJlqOB9fClm0L9ktkPoHGD18kLPUYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\MVCApp.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\mvcapp\\MVCApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

@@ -1,8 +1,9 @@
 @using BOL;
 @{
-    ViewData["Title"] = "Edit Page";
-    Student s=ViewData["student"] as Student;
+    ViewData["Title"] = "Insert Record";
 }
+
+
 <html>
     <head>
         <link rel="stylesheet" href="Edit.cshtml.css">
@@ -10,12 +11,12 @@
     <body>
          <div class="container">
                 <div class="text">
-                    Edit Student Record
+                    @ViewData["Title"] 
                 </div>
                 <form action="" method="post">
                     <div class="form-row">
                         <div class="input-data">
-                            <input type="number" name="id" value="@s.Id" required >
+                            <input type="number" name="id" required >
                             <div class="underline"></div>
                             <label for="">Id</label>
                         </div>
@@ -23,19 +24,25 @@
 
                     <div class="form-row">
                         <div class="input-data">
-                            <input type="text" name="fname" value="@s.FName" required>
+                            <input type="text" name="fname" required>
                             <div class="underline"></div>
                             <label for="">First Name</label>
                         </div>
                         <div class="input-data">
-                            <input type="text" name="lname" value="@s.LName" required>
+                            <input type="text" name="lname" required>
                             <div class="underline"></div>
                             <label for="">Last Name</label>
                         </div>
                     </div>
+                    
                     <div class="form-row">
                         <div class="input-data">
-                            <input type="text" name="email" value="@s.Email" required>
+                            <input type="text" name="date" required>
+                            <div class="underline"></div>
+                            <label for="">Date of Birth (yyyy-mm-dd)</label>
+                        </div>
+                        <div class="input-data">
+                            <input type="text" name="email" required>
                             <div class="underline"></div>
                             <label for="">Email Address</label>
                         </div>
@@ -45,7 +52,7 @@
                         <div class="form-row submit-btn">
                             <div class="input-data">
                                 <div class="inner"></div>
-                                <input type="submit" value="Update">
+                                <input type="submit" value="Insert">
                             </div>
                         </div>
                     </div>

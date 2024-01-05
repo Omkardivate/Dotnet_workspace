@@ -23,12 +23,15 @@
                     foreach(Student s in Model){
                     <tr>
                         <td> @s.Id </td> <td> @s.FName </td> <td> @s.LName </td> <td> @s.Date </td> <td> @s.Email  </td> 
-                        <td> <a href="/Students/Edit/{@s.Id}"> edit </a> | <a href=""> delete </a> </td>
+                        <td> <a href="/Students/Edit/@s.Id"> edit </a> | <a href="/Students/Delete/@s.Id"> delete </a> </td>
                     </tr>
                     }
                 }
                 </tbody>
-            </table>
+            </table> 
+            <br>
+            <hr>
+            <h1> <a href="/Students/Insert"> Insert Student </a> </h1>
         </div>
     </body>
 </html>

@@ -23,24 +23,65 @@ public class StudentsController : Controller
         return View(slist);
     }
     
+    
+    
+
+    
     [HttpGet]
-    public IActionResult Edit()
+    public IActionResult Edit(int id)
     {   
         StudentManager ob=new StudentManager();
-        List<Student> slist= ob.GetAllStudents();
-        return View(slist);
+        Student s= ob.GetStudent(id);
+        
+        ViewData["student"]= s;
+        return View();
     }
 
     [HttpPost]
-    public IActionResult Edit(int id,string fn,string ln,string email)
+    public IActionResult Edit(int id,string fname,string lname,string email)
+    {   
+        Console.WriteLine("Updation in process...."+fname+" "+lname);
+        StudentManager ob=new StudentManager();
+        bool status= ob.Update(id,fname,lname,email);
+       
+        if(status){
+            return this.RedirectToAction("Index");
+        }
+        
+        return View();
+    }
+
+    
+    [HttpGet]
+    public IActionResult Delete(int id)
     {   
         StudentManager ob=new StudentManager();
-        bool flag= ob.Edit(id,fn,ln,email);
-        if(flag){
+        bool status= ob.DeleteStudent(id);
+        
+        if(status){
             return this.RedirectToAction("Index");
         }
         return View();
     }
 
+    [HttpGet]
+    public IActionResult Insert()
+    {
+        return View();
+    }
+
     
+    [HttpPost]
+    public IActionResult Insert(int id,string fname,string lname,string date,string email)
+    {
+        StudentManager ob=new StudentManager();
+        bool status= ob.Insert(id,fname,lname,date,email);
+        
+        if(status){
+            return this.RedirectToAction("Index");
+        }
+        return View();
+    }
+
+
 }

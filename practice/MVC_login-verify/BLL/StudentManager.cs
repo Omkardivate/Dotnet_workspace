@@ -14,8 +14,23 @@ public class StudentManager
         return slist; 
     }
 
-    public bool Edit(int id,string fn,string ln,string email){
-        bool status=DBManager.Edit(id,fn,ln,email);
+    public Student GetStudent(int id){
+        Student s=DBManager.GetStudent(id);
+        return s; 
+    }
+    
+    public bool Update(int id,string fname,string lname,string email){
+        bool status=DBManager.Update(id,fname,lname,email);
+        return status; 
+    }
+    
+    public bool DeleteStudent(int id){
+        bool status=DBManager.DeleteStudent(id);
+        return status; 
+    }
+
+    public bool Insert(int id,string fname,string lname,string date,string email){
+        bool status=DBManager.Insert( id, fname, lname, date, email);
         return status; 
     }
 }

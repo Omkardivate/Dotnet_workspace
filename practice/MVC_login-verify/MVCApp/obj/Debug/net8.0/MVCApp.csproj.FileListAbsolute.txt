@@ -124,3 +124,6 @@ C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_l
 C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\MVCApp\obj\Debug\net8.0\MVCApp.csproj.CopyComplete
 C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\MVCApp\obj\Debug\net8.0\MVCApp.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\MVCApp\obj\Debug\net8.0\ref\MVCApp.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\mvcapp\obj\Debug\net8.0\scopedcss\Views\Students\Edit.cshtml.rz.scp.css
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\mvcapp\obj\Debug\net8.0\scopedcss\Views\Students\Insert.cshtml.rz.scp.css
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\mvcapp\obj\Debug\net8.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
