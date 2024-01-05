@@ -22,6 +22,25 @@ public class StudentsController : Controller
         
         return View(slist);
     }
+    
+    [HttpGet]
+    public IActionResult Edit()
+    {   
+        StudentManager ob=new StudentManager();
+        List<Student> slist= ob.GetAllStudents();
+        return View(slist);
+    }
+
+    [HttpPost]
+    public IActionResult Edit(int id,string fn,string ln,string email)
+    {   
+        StudentManager ob=new StudentManager();
+        bool flag= ob.Edit(id,fn,ln,email);
+        if(flag){
+            return this.RedirectToAction("Index");
+        }
+        return View();
+    }
 
     
 }

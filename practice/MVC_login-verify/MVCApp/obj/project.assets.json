@@ -1844,11 +1844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\MVCApp\\MVCApp.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\MVCApp.csproj",
       "projectName": "MVCApp",
-      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\MVCApp\\MVCApp.csproj",
+      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\MVCApp.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\MVCApp\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\MVCApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1863,11 +1863,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\BLL\\BLL.csproj"
+            "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\BOL\\BOL.csproj": {
-              "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\BOL\\BOL.csproj"
+            "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BOL\\BOL.csproj": {
+              "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BOL\\BOL.csproj"
             }
           }
         }

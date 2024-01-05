@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\BOL\\BOL.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BOL\\BOL.csproj",
       "projectName": "BOL",
-      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\BOL\\BOL.csproj",
+      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BOL\\BOL.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC1\\BOL\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cdac\\workspaces\\Dotnet_workspace\\practice\\MVC_login-verify\\BOL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

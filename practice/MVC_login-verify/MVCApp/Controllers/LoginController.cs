@@ -22,19 +22,17 @@ public class LoginController : Controller
     [HttpPost]
     public IActionResult Index(string username,string password)
     {
-        if(username=="user" && password=="user123"){
-            return RedirectToAction("Index","Students");
+        StudentManager ob=new StudentManager();
+        List<Credentials> slist= ob.GetCredentials();
+
+        foreach (Credentials c in slist)
+        {
+            if(username== c.UserName && password== c.Password ){
+                return RedirectToAction("Index","Students");
+            }
         }
+        
         return View();
     }
-
-    public IActionResult Students()
-    {
-        StudentManager ob=new StudentManager();
-        List<Student> slist= ob.GetAllStudents();
-        
-        return View(slist);
-    }
-
     
 }

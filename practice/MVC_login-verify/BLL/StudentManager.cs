@@ -9,4 +9,13 @@ public class StudentManager
         return slist;
     }
 
+    public List<Credentials> GetCredentials(){
+        List<Credentials> slist= DBManager.GetCredentials();
+        return slist; 
+    }
+
+    public bool Edit(int id,string fn,string ln,string email){
+        bool status=DBManager.Edit(id,fn,ln,email);
+        return status; 
+    }
 }

@@ -10,3 +10,15 @@ C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC1\
 C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC1\BOL\obj\Debug\net8.0\refint\BOL.dll
 C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC1\BOL\obj\Debug\net8.0\BOL.pdb
 C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC1\BOL\obj\Debug\net8.0\ref\BOL.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\bin\Debug\net8.0\BOL.deps.json
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\bin\Debug\net8.0\BOL.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\bin\Debug\net8.0\BOL.pdb
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\BOL.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\refint\BOL.dll
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\BOL.pdb
+C:\Users\DELL\OneDrive\Documents\Cdac\workspaces\Dotnet_workspace\practice\MVC_login-verify\BOL\obj\Debug\net8.0\ref\BOL.dll
