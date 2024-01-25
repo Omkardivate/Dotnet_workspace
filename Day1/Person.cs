@@ -26,10 +26,10 @@ public class Person{
     //property setter-getter syntax
     public string FirstName{
         get{
-            return this.FirstName;
+            return this.firstName;
         }
         set{
-            this.FirstName=value;
+            this.firstName=value;
         }
     }
 
@@ -39,7 +39,7 @@ public class Person{
     // toString()
      public override string ToString()
     {
-        return this.id+" "+this.FirstName +" "+ this.LastName;
+        return this.id+" "+this.firstName +" "+ this.LastName;
         //return base.ToString();
     }
 
